@@ -1,5 +1,7 @@
 # KUKA
 
+[![Build Status](http://build.ros.org/job/Idev__kuka__ubuntu_trusty_amd64/badge/icon)](http://build.ros.org/job/Idev__kuka__ubuntu_trusty_amd64)
+
 [ROS-Industrial][] KUKA meta-package. See the [ROS wiki][] page for more information.
 
 The [kuka_experimental][] repository contains additional packages.
